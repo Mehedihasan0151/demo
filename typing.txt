@@ -1,13 +1,21 @@
-11:54 -> 12:00 ato tuk somoy lagce. tumi o amni start ar end time laikho.
+3:13  ->  3:18
 
-A guide to using Tailwind with common css preprocessors like Sass, Less, and Stylus. 
+Muhammad Yunus (bkorn 28 June 1940) is a Bangladeshi entrepreneur, banker, economist and civil society
+leader. Yunus was awarded the Nobel Peace Prize in 2006 for founding the Grameen Bank and pioneering the 
+concepts of microcredit and mictofinance. Yunus has received several other national and international honours, 
+including from the US. He received the United States Presidential Medal of Freedom in 2009, and the Comgressional
+Gold Medal in 2010. Yunus is one of just seven individuals who have been awarded the Nobel Peace Prize, the 
+United States Presidential Medal of Freedom, and the United States Congressional Gold Medal. 
 
-Since Tailwind is a PostCSS plugin, there's nothing stopping you from using it with Sass, Less, Stylus, or other
-PostCSS plugins like Autoprefixer. 
 
-It's inportant to note that you don't need to use a preprocessor with Tailwing you typically write very little CSS on a
-Tailwind project anyway, so using a preprocessor just isn't as beneficial as it would be in a project 
-where you write a lot of custom CSS.
 
-This guide only exists as a reference for people who need to integrate Tailwind with a preprocessor for reasons
-outside of their control, not because it is a recommended practice. 
+
+
+3:19  ->  3:23
+
+in 2012 he became chancellor of glasgow caledonian university in scotland a position he help until 2018. previously
+he was a professor of economics at chittagong university in bangladesh. he published several books related to his 
+finance work. he is a founding board member of grameen america and grameen foundation which support microcredit.
+
+Yunus also served on the board of directors of the united nations foundation a public charity to support un causes 
+from 1998 to 2021
